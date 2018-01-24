@@ -2,6 +2,10 @@
 	"cybersagee": {
 		"ip": "minewatch.mcpro.io",
 		"status": "https://mcsrvstat.us/server/minewatch.mcpro.io",
-		"info": "Minecraft Version: 1.12.2\nMinewatch Version: 3.8\nOwner: cybersagee\nInfo: Current map is Ilios."
+		
+		"Minecraft Version": "1.12.2",
+		"Minewatch Version": "3.8",
+		"Owner": "cybersagee#0410",
+		"Info": "Current map is Ilios."
 	}
 }
