@@ -1,7 +1,7 @@
 {
 	"servers": {
 		"Mikirae (HappyCloud)": "mw.furglpimodding.com:1234",
-		"(PokeSmash)": "test",
+		"(PokeSmash)": "*",
 		"Furgl": "192.168.0.6"
 	}
 }
